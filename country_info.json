@@ -1,1353 +1,1546 @@
 [
   {
-    "Country":"Afghanistan",
-    "Capital":"Kabul",
-    "Currency":"Afghani",
-    "Language":"Pashto, Dari (Persian)",
-    "Religion":"Islam"
+    "name":"Afghanistan",
+    "country_code":93,
+    "capital":"Kabul",
+    "currency":"Afghani",
+    "language":"Pashto, Dari (Persian)",
+    "religion":"Islam"
+  },
+  {
+    "name":"Albania",
+    "country_code":355,
+    "capital":"Tirana",
+    "currency":"Lek",
+    "language":"Albanian",
+    "religion":"Islam, Christianity"
+  },
+  {
+    "name":"Algeria",
+    "country_code":213,
+    "capital":"Algiers",
+    "currency":"Algerian Dinar",
+    "language":"Arabic; Tamazight; French",
+    "religion":"Islam"
+  },
+  {
+    "name":"Andorra",
+    "country_code":376,
+    "capital":"Andorra la Vella",
+    "currency":"Euro",
+    "language":"Catalan",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Angola",
+    "country_code":244,
+    "capital":"Luanda",
+    "currency":"Kwanza",
+    "language":"Portuguese",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Antigua \u0026 Barbuda",
+    "country_code":1268,
+    "capital":"Saint John\u0027s",
+    "currency":"East Caribbean Dollar",
+    "language":"English",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Argentina",
+    "country_code":54,
+    "capital":"Buenos Aires",
+    "currency":"Argentine Peso",
+    "language":"Spanish",
+    "religion":"Christianity (But Secular Country)"
+  },
+  {
+    "name":"Armenia",
+    "country_code":374,
+    "capital":"Yerevan",
+    "currency":"Dram",
+    "language":"Armenian",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Australia",
+    "country_code":61,
+    "capital":"Canberra",
+    "currency":"Australian Dollar",
+    "language":"English",
+    "religion":"Christianity (But Secular Country)"
+  },
+  {
+    "name":"Austria",
+    "country_code":43,
+    "capital":"Vienna",
+    "currency":"Euro",
+    "language":"German",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Azerbaijan",
+    "country_code":994,
+    "capital":"Baku",
+    "currency":"Manat",
+    "language":"Azerbaijani",
+    "religion":"Islam"
+  },
+  {
+    "name":"The Bahamas",
+    "country_code":1242,
+    "capital":"Nassau",
+    "currency":"Bahamian Dollar",
+    "language":"English",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Bahrain",
+    "country_code":973,
+    "capital":"Manama",
+    "currency":"Bahraini Dinar",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Albania",
-    "Capital":"Tirana",
-    "Currency":"Lek",
-    "Language":"Albanian",
-    "Religion":"Islam, Christianity"
+    "name":"Bangladesh",
+    "country_code":880,
+    "capital":"Dhaka",
+    "currency":"Taka",
+    "language":"Bangla",
+    "religion":"Islam"
   },
   {
-    "Country":"Algeria",
-    "Capital":"Algiers",
-    "Currency":"Algerian Dinar",
-    "Language":"Arabic; Tamazight; French",
-    "Religion":"Islam"
+    "name":"Barbados",
+    "country_code":1246,
+    "capital":"Bridgetown",
+    "currency":"Barbadian Dollar",
+    "language":"English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Andorra",
-    "Capital":"Andorra la Vella",
-    "Currency":"Euro",
-    "Language":"Catalan",
-    "Religion":"Christianity"
+    "name":"Belarus",
+    "country_code":375,
+    "capital":"Minsk",
+    "currency":"Belarusian Ruble",
+    "language":"Belarusian; Russian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Angola",
-    "Capital":"Luanda",
-    "Currency":"Kwanza",
-    "Language":"Portuguese",
-    "Religion":"Christianity"
+    "name":"Belgium",
+    "country_code":32,
+    "capital":"Brussels",
+    "currency":"Euro",
+    "language":"Dutch; French; German",
+    "religion":"Secular"
   },
   {
-    "Country":"Antigua \u0026 Barbuda",
-    "Capital":"Saint John\u0027s",
-    "Currency":"East Caribbean Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Belize",
+    "country_code":501,
+    "capital":"Belmopan",
+    "currency":"Belize Dollar",
+    "language":"English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Argentina",
-    "Capital":"Buenos Aires",
-    "Currency":"Argentine Peso",
-    "Language":"Spanish",
-    "Religion":"Christianity (But Secular Country)"
+    "name":"Benin",
+    "country_code":229,
+    "capital":"Porto-Novo",
+    "currency":"West African CFA Franc",
+    "language":"French",
+    "religion":"Christianity"
   },
   {
-    "Country":"Armenia",
-    "Capital":"Yerevan",
-    "Currency":"Dram",
-    "Language":"Armenian",
-    "Religion":"Christianity"
+    "name":"Bhutan",
+    "country_code":975,
+    "capital":"Thimphu",
+    "currency":"Ngultrum",
+    "language":"Dzongkha",
+    "religion":"Buddhism, Hindu"
   },
   {
-    "Country":"Australia",
-    "Capital":"Canberra",
-    "Currency":"Australian Dollar",
-    "Language":"English",
-    "Religion":"Christianity (But Secular Country)"
+    "name":"Bosnia \u0026 Herzegovina",
+    "country_code":387,
+    "capital":"Sarajevo",
+    "currency":"Convertible Mark",
+    "language":"Bosnian; Croatian; Serbian",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Austria",
-    "Capital":"Vienna",
-    "Currency":"Euro",
-    "Language":"German",
-    "Religion":"Christianity"
+    "name":"Botswana",
+    "country_code":267,
+    "capital":"Gaborone",
+    "currency":"Pula",
+    "language":"English; Tswana",
+    "religion":"Christianity"
   },
   {
-    "Country":"Azerbaijan",
-    "Capital":"Baku",
-    "Currency":"Manat",
-    "Language":"Azerbaijani",
-    "Religion":"Islam"
+    "name":"Brazil",
+    "country_code":55,
+    "capital":"Brasilia",
+    "currency":"Real",
+    "language":"Portuguese",
+    "religion":"Christianity"
   },
   {
-    "Country":"The Bahamas",
-    "Capital":"Nassau",
-    "Currency":"Bahamian Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Brunei",
+    "country_code":673,
+    "capital":"Bandar Seri Begawan",
+    "currency":"Brunei Dollar",
+    "language":"Malay",
+    "religion":"Islam"
   },
   {
-    "Country":"Bahrain",
-    "Capital":"Manama",
-    "Currency":"Bahraini Dinar",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Bulgaria",
+    "country_code":359,
+    "capital":"Sofia",
+    "currency":"Lev",
+    "language":"Bulgarian",
+    "religion":"Secular"
   },
   {
-    "Country":"Bangladesh",
-    "Capital":"Dhaka",
-    "Currency":"Taka",
-    "Language":"Bangla",
-    "Religion":"Islam"
+    "name":"Burkina Faso",
+    "country_code":226,
+    "capital":"Ouagadougou",
+    "currency":"West African CFA Franc",
+    "language":"French",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Barbados",
-    "Capital":"Bridgetown",
-    "Currency":"Barbadian Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Burundi",
+    "country_code":257,
+    "capital":"Bujumbura",
+    "currency":"Burundi Franc",
+    "language":"Kirundi; French",
+    "religion":"Christianity"
   },
   {
-    "Country":"Belarus",
-    "Capital":"Minsk",
-    "Currency":"Belarusian Ruble",
-    "Language":"Belarusian; Russian",
-    "Religion":"Christianity"
+    "name":"Cambodia",
+    "country_code":855,
+    "capital":"Phnom Penh",
+    "currency":"Riel",
+    "language":"Khmer",
+    "religion":"Buddhism"
   },
   {
-    "Country":"Belgium",
-    "Capital":"Brussels",
-    "Currency":"Euro",
-    "Language":"Dutch; French; German",
-    "Religion":"Secular"
+    "name":"Cameroon",
+    "country_code":237,
+    "capital":"Yaoundé",
+    "currency":"Central African CFA Franc",
+    "language":"French; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Belize",
-    "Capital":"Belmopan",
-    "Currency":"Belize Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Canada",
+    "country_code":124,
+    "capital":"Ottawa",
+    "currency":"Canadian Dollar",
+    "language":"English; French",
+    "religion":"Christianity (But Secular Country)"
   },
   {
-    "Country":"Benin",
-    "Capital":"Porto-Novo",
-    "Currency":"West African CFA Franc",
-    "Language":"French",
-    "Religion":"Christianity"
+    "name":"Cape Verde",
+    "country_code":238,
+    "capital":"Praia",
+    "currency":"Cape Verdean Escudo",
+    "language":"Portuguese",
+    "religion":"Christianity"
   },
   {
-    "Country":"Bhutan",
-    "Capital":"Thimphu",
-    "Currency":"Ngultrum",
-    "Language":"Dzongkha",
-    "Religion":"Buddhism, Hindu"
+    "name":"Central African Republic",
+    "country_code":236,
+    "capital":"Bangui",
+    "currency":"Central African CFA Franc",
+    "language":"Sango; French",
+    "religion":"Christianity"
   },
   {
-    "Country":"Bosnia \u0026 Herzegovina",
-    "Capital":"Sarajevo",
-    "Currency":"Convertible Mark",
-    "Language":"Bosnian; Croatian; Serbian",
-    "Religion":"Islam, Christianity"
+    "name":"Chad",
+    "country_code":235,
+    "capital":"N\u0027Djamena",
+    "currency":"Central African CFA Franc",
+    "language":"French; Arabic",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Botswana",
-    "Capital":"Gaborone",
-    "Currency":"Pula",
-    "Language":"English; Tswana",
-    "Religion":"Christianity"
+    "name":"Chile",
+    "country_code":56,
+    "capital":"Santiago",
+    "currency":"Chilean Peso",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Brazil",
-    "Capital":"Brasilia",
-    "Currency":"Real",
-    "Language":"Portuguese",
-    "Religion":"Christianity"
+    "name":"China",
+    "country_code":86,
+    "capital":"Beijing",
+    "currency":"Chinese Yuan",
+    "language":"Mandarin",
+    "religion":"N/A"
   },
   {
-    "Country":"Brunei",
-    "Capital":"Bandar Seri Begawan",
-    "Currency":"Brunei Dollar",
-    "Language":"Malay",
-    "Religion":"Islam"
+    "name":"Colombia",
+    "country_code":57,
+    "capital":"Bogota",
+    "currency":"Colombian Peso",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Bulgaria",
-    "Capital":"Sofia",
-    "Currency":"Lev",
-    "Language":"Bulgarian",
-    "Religion":"Secular"
+    "name":"Comoros",
+    "country_code":269,
+    "capital":"Moroni",
+    "currency":"Comorian Franc",
+    "language":"Comorian; Arabic; French",
+    "religion":"Islam"
   },
   {
-    "Country":"Burkina Faso",
-    "Capital":"Ouagadougou",
-    "Currency":"West African CFA Franc",
-    "Language":"French",
-    "Religion":"Islam, Christianity"
+    "name":"Democratic Republic of the Congo",
+    "country_code":243,
+    "capital":"Kinshasa",
+    "currency":"Congolese Franc",
+    "language":"French",
+    "religion":"Christianity"
   },
   {
-    "Country":"Burundi",
-    "Capital":"Bujumbura",
-    "Currency":"Burundi Franc",
-    "Language":"Kirundi; French",
-    "Religion":"Christianity"
+    "name":"Republic of the Congo",
+    "country_code":242,
+    "capital":"Brazzaville",
+    "currency":"Central African CFA Franc",
+    "language":"French",
+    "religion":"N/A"
   },
   {
-    "Country":"Cambodia",
-    "Capital":"Phnom Penh",
-    "Currency":"Riel",
-    "Language":"Khmer",
-    "Religion":"Buddhism"
+    "name":"Costa Rica",
+    "country_code":506,
+    "capital":"San Jose",
+    "currency":"Colon",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Cameroon",
-    "Capital":"Yaoundé",
-    "Currency":"Central African CFA Franc",
-    "Language":"French; English",
-    "Religion":"Christianity"
+    "name":"Cote d\u0027Ivoire (Ivory Coast)",
+    "country_code":225,
+    "capital":"Yamoussoukro; Abidjan",
+    "currency":"West African CFA Franc",
+    "language":"French",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Canada",
-    "Capital":"Ottawa",
-    "Currency":"Canadian Dollar",
-    "Language":"English; French",
-    "Religion":"Christianity (But Secular Country)"
+    "name":"Croatia",
+    "country_code":385,
+    "capital":"Zagreb",
+    "currency":"Croatian",
+    "language":"Kuna",
+    "religion":"Christianity"
   },
   {
-    "Country":"Cape Verde",
-    "Capital":"Praia",
-    "Currency":"Cape Verdean Escudo",
-    "Language":"Portuguese",
-    "Religion":"Christianity"
+    "name":"Cuba",
+    "country_code":53,
+    "capital":"Havana",
+    "currency":"Cuban Peso",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Central African Republic",
-    "Capital":"Bangui",
-    "Currency":"Central African CFA Franc",
-    "Language":"Sango; French",
-    "Religion":"Christianity"
+    "name":"Cyprus",
+    "country_code":357,
+    "capital":"Nicosia",
+    "currency":"Euro",
+    "language":"Greek; Turkish",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Chad",
-    "Capital":"N\u0027Djamena",
-    "Currency":"Central African CFA Franc",
-    "Language":"French; Arabic",
-    "Religion":"Islam, Christianity"
+    "name":"Czech Republic",
+    "country_code":420,
+    "capital":"Prague",
+    "currency":"Czech Koruna",
+    "language":"Czech; Slovak",
+    "religion":"N/A"
   },
   {
-    "Country":"Chile",
-    "Capital":"Santiago",
-    "Currency":"Chilean Peso",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Denmark",
+    "country_code":45,
+    "capital":"Copenhagen",
+    "currency":"Danish Krone",
+    "language":"Danish",
+    "religion":"Christianity"
   },
   {
-    "Country":"China",
-    "Capital":"Beijing",
-    "Currency":"Chinese Yuan",
-    "Language":"Mandarin",
-    "Religion":"N/A"
+    "name":"Djibouti",
+    "country_code":253,
+    "capital":"Djibouti City",
+    "currency":"Djiboutian Franc",
+    "language":"Arabic; French",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Colombia",
-    "Capital":"Bogota",
-    "Currency":"Colombian Peso",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Dominica",
+    "country_code":1767,
+    "capital":"Roseau",
+    "currency":"East Caribbean Dollar",
+    "language":"English; French; Antillean Creole",
+    "religion":"Christianity"
   },
   {
-    "Country":"Comoros",
-    "Capital":"Moroni",
-    "Currency":"Comorian Franc",
-    "Language":"Comorian; Arabic; French",
-    "Religion":"Islam"
+    "name":"Dominican Republic",
+    "country_code":1809,
+    "capital":"Santo Domingo",
+    "currency":"Dominican Peso",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Democratic Republic of the Congo",
-    "Capital":"Kinshasa",
-    "Currency":"Congolese Franc",
-    "Language":"French",
-    "Religion":"Christianity"
+    "name":"East Timor (Timor-Leste)",
+    "country_code":670,
+    "capital":"Dili",
+    "currency":"United States Dollar",
+    "language":"Tetum; Portuguese",
+    "religion":"Christianity"
   },
   {
-    "Country":"Republic of the Congo",
-    "Capital":"Brazzaville",
-    "Currency":"Central African CFA Franc",
-    "Language":"French",
-    "Religion":"N/A"
+    "name":"Ecuador",
+    "country_code":593,
+    "capital":"Quito",
+    "currency":"United States Dollar",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Costa Rica",
-    "Capital":"San Jose",
-    "Currency":"Colon",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Egypt",
+    "country_code":20,
+    "capital":"Cairo",
+    "currency":"Egyptian Pound",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Cote d\u0027Ivoire (Ivory Coast)",
-    "Capital":"Yamoussoukro; Abidjan",
-    "Currency":"West African CFA Franc",
-    "Language":"French",
-    "Religion":"Islam, Christianity"
+    "name":"El Salvador",
+    "country_code":503,
+    "capital":"San Salvador",
+    "currency":"United States Dollar",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Croatia",
-    "Capital":"Zagreb",
-    "Currency":"Croatian",
-    "Language":"Kuna",
-    "Religion":"Christianity"
+    "name":"Equatorial Guinea",
+    "country_code":240,
+    "capital":"Malabo",
+    "currency":"Central African CFA Franc",
+    "language":"Spanish; French; Portuguese",
+    "religion":"Christianity"
   },
   {
-    "Country":"Cuba",
-    "Capital":"Havana",
-    "Currency":"Cuban Peso",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Eritrea",
+    "country_code":291,
+    "capital":"Asmara",
+    "currency":"Nakfa",
+    "language":"Arabic; Tigrinya; English",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Cyprus",
-    "Capital":"Nicosia",
-    "Currency":"Euro",
-    "Language":"Greek; Turkish",
-    "Religion":"Christianity, Islam"
+    "name":"Estonia",
+    "country_code":372,
+    "capital":"Tallinn",
+    "currency":"Estonian Kroon; Euro",
+    "language":"Estonian",
+    "religion":"Secular"
   },
   {
-    "Country":"Czech Republic",
-    "Capital":"Prague",
-    "Currency":"Czech Koruna",
-    "Language":"Czech; Slovak",
-    "Religion":"N/A"
+    "name":"Ethiopia",
+    "country_code":251,
+    "capital":"Addis Ababa",
+    "currency":"Birr",
+    "language":"Amharic",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Denmark",
-    "Capital":"Copenhagen",
-    "Currency":"Danish Krone",
-    "Language":"Danish",
-    "Religion":"Christianity"
+    "name":"Fiji",
+    "country_code":679,
+    "capital":"Suva",
+    "currency":"Fijian Dollar",
+    "language":"English; Bau Fijian; Hindi",
+    "religion":"Christianity, Hindu, Islam"
   },
   {
-    "Country":"Djibouti",
-    "Capital":"Djibouti City",
-    "Currency":"Djiboutian Franc",
-    "Language":"Arabic; French",
-    "Religion":"Islam, Christianity"
+    "name":"Finland",
+    "country_code":358,
+    "capital":"Helsinki",
+    "currency":"Euro",
+    "language":"Finnish; Swedish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Dominica",
-    "Capital":"Roseau",
-    "Currency":"East Caribbean Dollar",
-    "Language":"English; French; Antillean Creole",
-    "Religion":"Christianity"
+    "name":"France",
+    "country_code":33,
+    "capital":"Paris",
+    "currency":"Euro; CFP Franc",
+    "language":"French",
+    "religion":"Secular"
   },
   {
-    "Country":"Dominican Republic",
-    "Capital":"Santo Domingo",
-    "Currency":"Dominican Peso",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Gabon",
+    "country_code":241,
+    "capital":"Libreville",
+    "currency":"Central African CFA Franc",
+    "language":"French",
+    "religion":"Christianity"
   },
   {
-    "Country":"East Timor (Timor-Leste)",
-    "Capital":"Dili",
-    "Currency":"United States Dollar",
-    "Language":"Tetum; Portuguese",
-    "Religion":"Christianity"
+    "name":"The Gambia",
+    "country_code":220,
+    "capital":"Banjul",
+    "currency":"Dalasi",
+    "language":"English",
+    "religion":"Islam"
   },
   {
-    "Country":"Ecuador",
-    "Capital":"Quito",
-    "Currency":"United States Dollar",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Georgia",
+    "country_code":995,
+    "capital":"Tbilisi",
+    "currency":"Lari",
+    "language":"Georgian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Egypt",
-    "Capital":"Cairo",
-    "Currency":"Egyptian Pound",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Germany",
+    "country_code":49,
+    "capital":"Berlin",
+    "currency":"Euro",
+    "language":"German",
+    "religion":"Christianity"
   },
   {
-    "Country":"El Salvador",
-    "Capital":"San Salvador",
-    "Currency":"United States Dollar",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Ghana",
+    "country_code":233,
+    "capital":"Accra",
+    "currency":"Ghanaian Cedi",
+    "language":"English",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Equatorial Guinea",
-    "Capital":"Malabo",
-    "Currency":"Central African CFA Franc",
-    "Language":"Spanish; French; Portuguese",
-    "Religion":"Christianity"
+    "name":"Greece",
+    "country_code":30,
+    "capital":"Athens",
+    "currency":"Euro",
+    "language":"Greek",
+    "religion":"(Christianity) Orthodoxy"
   },
   {
-    "Country":"Eritrea",
-    "Capital":"Asmara",
-    "Currency":"Nakfa",
-    "Language":"Arabic; Tigrinya; English",
-    "Religion":"Christianity, Islam"
+    "name":"Grenada",
+    "country_code":1473,
+    "capital":"St. George\u0027s",
+    "currency":"East Caribbean Dollar",
+    "language":"English; Patois",
+    "religion":"Christianity"
   },
   {
-    "Country":"Estonia",
-    "Capital":"Tallinn",
-    "Currency":"Estonian Kroon; Euro",
-    "Language":"Estonian",
-    "Religion":"Secular"
+    "name":"Guatemala",
+    "country_code":502,
+    "capital":"Guatemala City",
+    "currency":"Quetzal",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Ethiopia",
-    "Capital":"Addis Ababa",
-    "Currency":"Birr",
-    "Language":"Amharic",
-    "Religion":"Islam, Christianity"
+    "name":"Guinea",
+    "country_code":224,
+    "capital":"Conakry",
+    "currency":"Guinean Franc",
+    "language":"French",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Fiji",
-    "Capital":"Suva",
-    "Currency":"Fijian Dollar",
-    "Language":"English; Bau Fijian; Hindi",
-    "Religion":"Christianity, Hindu, Islam"
+    "name":"Guinea-Bissau",
+    "country_code":245,
+    "capital":"Bissau",
+    "currency":"West African CFA Franc",
+    "language":"Portuguese",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Finland",
-    "Capital":"Helsinki",
-    "Currency":"Euro",
-    "Language":"Finnish; Swedish",
-    "Religion":"Christianity"
+    "name":"Guyana",
+    "country_code":592,
+    "capital":"Georgetown",
+    "currency":"Guyanese Dollar",
+    "language":"English",
+    "religion":"Christianity, Hindu, Islam"
   },
   {
-    "Country":"France",
-    "Capital":"Paris",
-    "Currency":"Euro; CFP Franc",
-    "Language":"French",
-    "Religion":"Secular"
+    "name":"Haiti",
+    "country_code":509,
+    "capital":"Port-au-Prince",
+    "currency":"Gourde",
+    "language":"Haitian Creole; French",
+    "religion":"Christianity"
   },
   {
-    "Country":"Gabon",
-    "Capital":"Libreville",
-    "Currency":"Central African CFA Franc",
-    "Language":"French",
-    "Religion":"Christianity"
+    "name":"Honduras",
+    "country_code":504,
+    "capital":"Tegucigalpa",
+    "currency":"Lempira",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"The Gambia",
-    "Capital":"Banjul",
-    "Currency":"Dalasi",
-    "Language":"English",
-    "Religion":"Islam"
+    "name":"Hungary",
+    "country_code":36,
+    "capital":"Budapest",
+    "currency":"Forint",
+    "language":"Hungarian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Georgia",
-    "Capital":"Tbilisi",
-    "Currency":"Lari",
-    "Language":"Georgian",
-    "Religion":"Christianity"
+    "name":"Iceland",
+    "country_code":354,
+    "capital":"Reykjavik",
+    "currency":"Icelandic Krona",
+    "language":"Icelandic",
+    "religion":"Christianity"
   },
   {
-    "Country":"Germany",
-    "Capital":"Berlin",
-    "Currency":"Euro",
-    "Language":"German",
-    "Religion":"Christianity"
+    "name":"India",
+    "country_code":91,
+    "capital":"New Delhi",
+    "currency":"Indian Rupee",
+    "language":"Hindi; English",
+    "religion":"Secular"
   },
   {
-    "Country":"Ghana",
-    "Capital":"Accra",
-    "Currency":"Ghanaian Cedi",
-    "Language":"English",
-    "Religion":"Christianity, Islam"
+    "name":"Indonesia",
+    "country_code":62,
+    "capital":"Jakarta",
+    "currency":"Rupiah",
+    "language":"Indonesian",
+    "religion":"Islam"
   },
   {
-    "Country":"Greece",
-    "Capital":"Athens",
-    "Currency":"Euro",
-    "Language":"Greek",
-    "Religion":"(Christianity) Orthodoxy"
+    "name":"Iran",
+    "country_code":98,
+    "capital":"Tehran",
+    "currency":"Rial",
+    "language":"Persian",
+    "religion":"Islam"
   },
   {
-    "Country":"Grenada",
-    "Capital":"St. George\u0027s",
-    "Currency":"East Caribbean Dollar",
-    "Language":"English; Patois",
-    "Religion":"Christianity"
+    "name":"Iraq",
+    "country_code":964,
+    "capital":"Baghdad",
+    "currency":"Iraqi Dinar",
+    "language":"Arabic; Kurdish",
+    "religion":"Islam"
   },
   {
-    "Country":"Guatemala",
-    "Capital":"Guatemala City",
-    "Currency":"Quetzal",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Republic of Ireland",
+    "country_code":353,
+    "capital":"Dublin",
+    "currency":"Euro",
+    "language":"English; Irish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Guinea",
-    "Capital":"Conakry",
-    "Currency":"Guinean Franc",
-    "Language":"French",
-    "Religion":"Islam, Christianity"
+    "name":"Israel",
+    "country_code":972,
+    "capital":"Jerusalem",
+    "currency":"Shekel",
+    "language":"Hebrew; Arabic",
+    "religion":"Judaism, Christianity, Islam, Druze"
   },
   {
-    "Country":"Guinea-Bissau",
-    "Capital":"Bissau",
-    "Currency":"West African CFA Franc",
-    "Language":"Portuguese",
-    "Religion":"Islam, Christianity"
+    "name":"Italy",
+    "country_code":39,
+    "capital":"Rome",
+    "currency":"Euro",
+    "language":"Italian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Guyana",
-    "Capital":"Georgetown",
-    "Currency":"Guyanese Dollar",
-    "Language":"English",
-    "Religion":"Christianity, Hindu, Islam"
+    "name":"Jamaica",
+    "country_code":1876,
+    "capital":"Kingston",
+    "currency":"Jamaican Dollar",
+    "language":"English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Haiti",
-    "Capital":"Port-au-Prince",
-    "Currency":"Gourde",
-    "Language":"Haitian Creole; French",
-    "Religion":"Christianity"
+    "name":"Japan",
+    "country_code":81,
+    "capital":"Tokyo",
+    "currency":"Yen",
+    "language":"Japanese",
+    "religion":"Buddhism or Shinto (But Secular Country)"
   },
   {
-    "Country":"Honduras",
-    "Capital":"Tegucigalpa",
-    "Currency":"Lempira",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Jordan",
+    "country_code":962,
+    "capital":"Amman",
+    "currency":"Jordanian Dinar",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Hungary",
-    "Capital":"Budapest",
-    "Currency":"Forint",
-    "Language":"Hungarian",
-    "Religion":"Christianity"
+    "name":"Kazakhstan",
+    "country_code":77,
+    "capital":"Astana",
+    "currency":"Tenge",
+    "language":"Kazakh; Russian",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Iceland",
-    "Capital":"Reykjavik",
-    "Currency":"Icelandic Krona",
-    "Language":"Icelandic",
-    "Religion":"Christianity"
+    "name":"Kenya",
+    "country_code":254,
+    "capital":"Nairobi",
+    "currency":"Kenyan Shilling",
+    "language":"Swahili; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"India",
-    "Capital":"New Delhi",
-    "Currency":"Indian Rupee",
-    "Language":"Hindi; English",
-    "Religion":"Secular"
+    "name":"Kiribati",
+    "country_code":686,
+    "capital":"Tarawa Atoll",
+    "currency":"Kiribati Dollar",
+    "language":"English; Gilbertese",
+    "religion":"Christianity"
   },
   {
-    "Country":"Indonesia",
-    "Capital":"Jakarta",
-    "Currency":"Rupiah",
-    "Language":"Indonesian",
-    "Religion":"Islam"
+    "name":"North Korea",
+    "country_code":850,
+    "capital":"Pyongyang",
+    "currency":"North Korean Won",
+    "language":"Korean",
+    "religion":"Secular"
   },
   {
-    "Country":"Iran",
-    "Capital":"Tehran",
-    "Currency":"Rial",
-    "Language":"Persian",
-    "Religion":"Islam"
+    "name":"South Korea",
+    "country_code":82,
+    "capital":"Seoul",
+    "currency":"South Korean Won",
+    "language":"Korean",
+    "religion":"Atheist (but some follow Buddhist \u0026 Christian)"
   },
   {
-    "Country":"Iraq",
-    "Capital":"Baghdad",
-    "Currency":"Iraqi Dinar",
-    "Language":"Arabic; Kurdish",
-    "Religion":"Islam"
+    "name":"Kosovo",
+    "country_code":383,
+    "capital":"Pristina",
+    "currency":"Euro",
+    "language":"Albanian; Serbian",
+    "religion":"Islam"
   },
   {
-    "Country":"Republic of Ireland",
-    "Capital":"Dublin",
-    "Currency":"Euro",
-    "Language":"English; Irish",
-    "Religion":"Christianity"
+    "name":"Kuwait",
+    "country_code":965,
+    "capital":"Kuwait City",
+    "currency":"Kuwaiti Dollar",
+    "language":"Arabic; English",
+    "religion":"Islam"
   },
   {
-    "Country":"Israel",
-    "Capital":"Jerusalem",
-    "Currency":"Shekel",
-    "Language":"Hebrew; Arabic",
-    "Religion":"Judaism, Christianity, Islam, Druze"
+    "name":"Kyrgyzstan",
+    "country_code":996,
+    "capital":"Bishkek",
+    "currency":"Som",
+    "language":"Kyrgyz; Russian",
+    "religion":"Islam, Russian Orthodoxy"
   },
   {
-    "Country":"Italy",
-    "Capital":"Rome",
-    "Currency":"Euro",
-    "Language":"Italian",
-    "Religion":"Christianity"
+    "name":"Laos",
+    "country_code":856,
+    "capital":"Vientiane",
+    "currency":"Kip",
+    "language":"Lao (Laotian)",
+    "religion":"Buddhism"
   },
   {
-    "Country":"Jamaica",
-    "Capital":"Kingston",
-    "Currency":"Jamaican Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Latvia",
+    "country_code":371,
+    "capital":"Riga",
+    "currency":"Lats",
+    "language":"Latvian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Japan",
-    "Capital":"Tokyo",
-    "Currency":"Yen",
-    "Language":"Japanese",
-    "Religion":"Buddhism or Shinto (But Secular Country)"
+    "name":"Lebanon",
+    "country_code":961,
+    "capital":"Beirut",
+    "currency":"Lebanese Pound",
+    "language":"Arabic; French",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Jordan",
-    "Capital":"Amman",
-    "Currency":"Jordanian Dinar",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Lesotho",
+    "country_code":266,
+    "capital":"Maseru",
+    "currency":"Loti",
+    "language":"Sesotho; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Kazakhstan",
-    "Capital":"Astana",
-    "Currency":"Tenge",
-    "Language":"Kazakh; Russian",
-    "Religion":"Islam, Christianity"
+    "name":"Liberia",
+    "country_code":231,
+    "capital":"Monrovia",
+    "currency":"Liberian Dollar",
+    "language":"English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Kenya",
-    "Capital":"Nairobi",
-    "Currency":"Kenyan Shilling",
-    "Language":"Swahili; English",
-    "Religion":"Christianity"
+    "name":"Libya",
+    "country_code":218,
+    "capital":"Tripoli",
+    "currency":"Libyan Dinar",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Kiribati",
-    "Capital":"Tarawa Atoll",
-    "Currency":"Kiribati Dollar",
-    "Language":"English; Gilbertese",
-    "Religion":"Christianity"
+    "name":"Liechtenstein",
+    "country_code":423,
+    "capital":"Vaduz",
+    "currency":"Swiss Franc",
+    "language":"German",
+    "religion":"Christianity"
   },
   {
-    "Country":"North Korea",
-    "Capital":"Pyongyang",
-    "Currency":"North Korean Won",
-    "Language":"Korean",
-    "Religion":"Secular"
+    "name":"Lithuania",
+    "country_code":370,
+    "capital":"Vilnius",
+    "currency":"Lithuanian Litas",
+    "language":"Lithuanian",
+    "religion":"Christianity"
   },
   {
-    "Country":"South Korea",
-    "Capital":"Seoul",
-    "Currency":"South Korean Won",
-    "Language":"Korean",
-    "Religion":"Atheist (but some follow Buddhist \u0026 Christian)"
+    "name":"Luxembourg",
+    "country_code":352,
+    "capital":"Luxembourg",
+    "currency":"Euro",
+    "language":"German; French; Luxembourgish",
+    "religion":"Christianity (But it is a Secular Country)"
   },
   {
-    "Country":"Kosovo",
-    "Capital":"Pristina",
-    "Currency":"Euro",
-    "Language":"Albanian; Serbian",
-    "Religion":"Islam"
+    "name":"Macedonia",
+    "country_code":389,
+    "capital":"Skopje",
+    "currency":"Macedonian Denar",
+    "language":"Macedonian",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Kuwait",
-    "Capital":"Kuwait City",
-    "Currency":"Kuwaiti Dollar",
-    "Language":"Arabic; English",
-    "Religion":"Islam"
+    "name":"Madagascar",
+    "country_code":261,
+    "capital":"Antananarivo",
+    "currency":"Malagasy Ariary",
+    "language":"Malagasy; French; English",
+    "religion":"Traditional Religion"
   },
   {
-    "Country":"Kyrgyzstan",
-    "Capital":"Bishkek",
-    "Currency":"Som",
-    "Language":"Kyrgyz; Russian",
-    "Religion":"Islam, Russian Orthodoxy"
+    "name":"Malawi",
+    "country_code":265,
+    "capital":"Lilongwe",
+    "currency":"Malawi Kwacha",
+    "language":"English",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Laos",
-    "Capital":"Vientiane",
-    "Currency":"Kip",
-    "Language":"Lao (Laotian)",
-    "Religion":"Buddhism"
+    "name":"Malaysia",
+    "country_code":60,
+    "capital":"Kuala Lumpur",
+    "currency":"Ringgit",
+    "language":"Malay",
+    "religion":"Islam"
   },
   {
-    "Country":"Latvia",
-    "Capital":"Riga",
-    "Currency":"Lats",
-    "Language":"Latvian",
-    "Religion":"Christianity"
+    "name":"Mali",
+    "country_code":223,
+    "capital":"Bamako",
+    "currency":"West African CFA Franc",
+    "language":"French",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Lebanon",
-    "Capital":"Beirut",
-    "Currency":"Lebanese Pound",
-    "Language":"Arabic; French",
-    "Religion":"Islam, Christianity"
+    "name":"Malta",
+    "country_code":356,
+    "capital":"Valletta",
+    "currency":"Euro",
+    "language":"Maltese; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Lesotho",
-    "Capital":"Maseru",
-    "Currency":"Loti",
-    "Language":"Sesotho; English",
-    "Religion":"Christianity"
+    "name":"Marshall Islands",
+    "country_code":692,
+    "capital":"Majuro",
+    "currency":"United States Dollar",
+    "language":"Marshallese; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Liberia",
-    "Capital":"Monrovia",
-    "Currency":"Liberian Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Mauritania",
+    "country_code":222,
+    "capital":"Nouakchott",
+    "currency":"Ouguiya",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Libya",
-    "Capital":"Tripoli",
-    "Currency":"Libyan Dinar",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Mauritius",
+    "country_code":230,
+    "capital":"Port Louis",
+    "currency":"Mauritian Rupee",
+    "language":"English",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Liechtenstein",
-    "Capital":"Vaduz",
-    "Currency":"Swiss Franc",
-    "Language":"German",
-    "Religion":"Christianity"
+    "name":"Mexico",
+    "country_code":52,
+    "capital":"Mexico City",
+    "currency":"Mexican Peso",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Lithuania",
-    "Capital":"Vilnius",
-    "Currency":"Lithuanian Litas",
-    "Language":"Lithuanian",
-    "Religion":"Christianity"
+    "name":"Federal States of Micronesia",
+    "country_code":691,
+    "capital":"Palikir",
+    "currency":"United States Dollar",
+    "language":"English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Luxembourg",
-    "Capital":"Luxembourg",
-    "Currency":"Euro",
-    "Language":"German; French; Luxembourgish",
-    "Religion":"Christianity (But it is a Secular Country)"
+    "name":"Moldova",
+    "country_code":373,
+    "capital":"Chisinau",
+    "currency":"Moldovan Leu",
+    "language":"Moldovan (Romanian)",
+    "religion":"Christianity"
   },
   {
-    "Country":"Macedonia",
-    "Capital":"Skopje",
-    "Currency":"Macedonian Denar",
-    "Language":"Macedonian",
-    "Religion":"Christianity, Islam"
+    "name":"Monaco",
+    "country_code":377,
+    "capital":"Monaco",
+    "currency":"Euro",
+    "language":"French; Italian; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Madagascar",
-    "Capital":"Antananarivo",
-    "Currency":"Malagasy Ariary",
-    "Language":"Malagasy; French; English",
-    "Religion":"Traditional Religion"
+    "name":"Mongolia",
+    "country_code":976,
+    "capital":"Ulaanbaatar",
+    "currency":"Togrog",
+    "language":"Mongolian",
+    "religion":"Buddhism"
   },
   {
-    "Country":"Malawi",
-    "Capital":"Lilongwe",
-    "Currency":"Malawi Kwacha",
-    "Language":"English",
-    "Religion":"Christianity, Islam"
+    "name":"Montenegro",
+    "country_code":382,
+    "capital":"Podgorica",
+    "currency":"Euro",
+    "language":"Montenegrin",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Malaysia",
-    "Capital":"Kuala Lumpur",
-    "Currency":"Ringgit",
-    "Language":"Malay",
-    "Religion":"Islam"
+    "name":"Morocco",
+    "country_code":212,
+    "capital":"Rabat",
+    "currency":"Moroccan Dirham",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Mali",
-    "Capital":"Bamako",
-    "Currency":"West African CFA Franc",
-    "Language":"French",
-    "Religion":"Islam, Christianity"
+    "name":"Mozambique",
+    "country_code":258,
+    "capital":"Maputo",
+    "currency":"Mozambican Metical",
+    "language":"Portuguese",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Malta",
-    "Capital":"Valletta",
-    "Currency":"Euro",
-    "Language":"Maltese; English",
-    "Religion":"Christianity"
+    "name":"Myanmar (Burma)",
+    "country_code":95,
+    "capital":"Nypyidaw",
+    "currency":"Kyat",
+    "language":"Burmese",
+    "religion":"Buddhism"
   },
   {
-    "Country":"Marshall Islands",
-    "Capital":"Majuro",
-    "Currency":"United States Dollar",
-    "Language":"Marshallese; English",
-    "Religion":"Christianity"
+    "name":"Namibia",
+    "country_code":264,
+    "capital":"Windhoek",
+    "currency":"Namibian Dollar",
+    "language":"English; Afrikaans; German",
+    "religion":"Christianity"
   },
   {
-    "Country":"Mauritania",
-    "Capital":"Nouakchott",
-    "Currency":"Ouguiya",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Nauru",
+    "country_code":674,
+    "capital":"Yaren",
+    "currency":"Australian Dollar",
+    "language":"English; Nauran",
+    "religion":"Christianity"
   },
   {
-    "Country":"Mauritius",
-    "Capital":"Port Louis",
-    "Currency":"Mauritian Rupee",
-    "Language":"English",
-    "Religion":"Christianity, Islam"
+    "name":"Nepal",
+    "country_code":977,
+    "capital":"Kathmandu",
+    "currency":"Nepalese Rupee",
+    "language":"Nepali",
+    "religion":"Hindu, Buddhism, Islam"
   },
   {
-    "Country":"Mexico",
-    "Capital":"Mexico City",
-    "Currency":"Mexican Peso",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Netherlands",
+    "country_code":31,
+    "capital":"Amsterdam; The Hague",
+    "currency":"Euro",
+    "language":"Dutch",
+    "religion":"Christianity (But a Secular Country)"
   },
   {
-    "Country":"Federal States of Micronesia",
-    "Capital":"Palikir",
-    "Currency":"United States Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"New Zealand",
+    "country_code":64,
+    "capital":"Wellington",
+    "currency":"New Zealand Dollar",
+    "language":"English",
+    "religion":"Christianity (But a Secular Country)"
   },
   {
-    "Country":"Moldova",
-    "Capital":"Chisinau",
-    "Currency":"Moldovan Leu",
-    "Language":"Moldovan (Romanian)",
-    "Religion":"Christianity"
+    "name":"Nicaragua",
+    "country_code":505,
+    "capital":"Managua",
+    "currency":"Cordoba",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Monaco",
-    "Capital":"Monaco",
-    "Currency":"Euro",
-    "Language":"French; Italian; English",
-    "Religion":"Christianity"
+    "name":"Niger",
+    "country_code":227,
+    "capital":"Niamey",
+    "currency":"West African CFA Franc",
+    "language":"French",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Mongolia",
-    "Capital":"Ulaanbaatar",
-    "Currency":"Togrog",
-    "Language":"Mongolian",
-    "Religion":"Buddhism"
+    "name":"Nigeria",
+    "country_code":234,
+    "capital":"Abuja",
+    "currency":"Naira",
+    "language":"English",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Montenegro",
-    "Capital":"Podgorica",
-    "Currency":"Euro",
-    "Language":"Montenegrin",
-    "Religion":"Islam, Christianity"
+    "name":"Norway",
+    "country_code":47,
+    "capital":"Oslo",
+    "currency":"Norwegian Krone",
+    "language":"Norwegian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Morocco",
-    "Capital":"Rabat",
-    "Currency":"Moroccan Dirham",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Oman",
+    "country_code":968,
+    "capital":"Muscat",
+    "currency":"Omani Rial",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Mozambique",
-    "Capital":"Maputo",
-    "Currency":"Mozambican Metical",
-    "Language":"Portuguese",
-    "Religion":"Christianity, Islam"
+    "name":"Pakistan",
+    "country_code":92,
+    "capital":"Islamabad",
+    "currency":"Pakistani Rupee",
+    "language":"Urdu; English",
+    "religion":"Islam"
   },
   {
-    "Country":"Myanmar (Burma)",
-    "Capital":"Nypyidaw",
-    "Currency":"Kyat",
-    "Language":"Burmese",
-    "Religion":"Buddhism"
+    "name":"Palau",
+    "country_code":680,
+    "capital":"Melekeok",
+    "currency":"United States Dollar",
+    "language":"English; Palauan",
+    "religion":"Christianity"
   },
   {
-    "Country":"Namibia",
-    "Capital":"Windhoek",
-    "Currency":"Namibian Dollar",
-    "Language":"English; Afrikaans; German",
-    "Religion":"Christianity"
+    "name":"Panama",
+    "country_code":507,
+    "capital":"Panama City",
+    "currency":"Balboa",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Nauru",
-    "Capital":"Yaren",
-    "Currency":"Australian Dollar",
-    "Language":"English; Nauran",
-    "Religion":"Christianity"
+    "name":"Papua New Guinea",
+    "country_code":675,
+    "capital":"Port Moresby",
+    "currency":"Papua New Guinean Kina",
+    "language":"English; Tok Pisin; Hiri Motu",
+    "religion":"Christianity"
   },
   {
-    "Country":"Nepal",
-    "Capital":"Kathmandu",
-    "Currency":"Nepalese Rupee",
-    "Language":"Nepali",
-    "Religion":"Hindu, Buddhism, Islam"
+    "name":"Paraguay",
+    "country_code":595,
+    "capital":"Asuncion",
+    "currency":"Guarani",
+    "language":"Spanish; Guarani",
+    "religion":"Christianity"
   },
   {
-    "Country":"Netherlands",
-    "Capital":"Amsterdam; The Hague",
-    "Currency":"Euro",
-    "Language":"Dutch",
-    "Religion":"Christianity (But a Secular Country)"
+    "name":"Peru",
+    "country_code":51,
+    "capital":"Lima",
+    "currency":"Nuevo Sol",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"New Zealand",
-    "Capital":"Wellington",
-    "Currency":"New Zealand Dollar",
-    "Language":"English",
-    "Religion":"Christianity (But a Secular Country)"
+    "name":"Philippines",
+    "country_code":63,
+    "capital":"Manila",
+    "currency":"Philippine Peso",
+    "language":"Filipino; English",
+    "religion":"Christianity, Islam"
   },
   {
-    "Country":"Nicaragua",
-    "Capital":"Managua",
-    "Currency":"Cordoba",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Poland",
+    "country_code":48,
+    "capital":"Warsaw",
+    "currency":"Złoty",
+    "language":"Polish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Niger",
-    "Capital":"Niamey",
-    "Currency":"West African CFA Franc",
-    "Language":"French",
-    "Religion":"Islam, Christianity"
+    "name":"Portugal",
+    "country_code":351,
+    "capital":"Lisbon",
+    "currency":"Euro",
+    "language":"Portuguese",
+    "religion":"Christianity"
   },
   {
-    "Country":"Nigeria",
-    "Capital":"Abuja",
-    "Currency":"Naira",
-    "Language":"English",
-    "Religion":"Christianity, Islam"
+    "name":"Qatar",
+    "country_code":974,
+    "capital":"Doha",
+    "currency":"Qatari Riyal",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Norway",
-    "Capital":"Oslo",
-    "Currency":"Norwegian Krone",
-    "Language":"Norwegian",
-    "Religion":"Christianity"
+    "name":"Romania",
+    "country_code":40,
+    "capital":"Bucharest",
+    "currency":"Romanian Rupee",
+    "language":"Romanian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Oman",
-    "Capital":"Muscat",
-    "Currency":"Omani Rial",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Russia",
+    "country_code":7,
+    "capital":"Moscow",
+    "currency":"Ruble",
+    "language":"Russian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Pakistan",
-    "Capital":"Islamabad",
-    "Currency":"Pakistani Rupee",
-    "Language":"Urdu; English",
-    "Religion":"Islam"
+    "name":"Rwanda",
+    "country_code":250,
+    "capital":"Kigali",
+    "currency":"Rwandan Franc",
+    "language":"Kinyarwanda; French; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Palau",
-    "Capital":"Melekeok",
-    "Currency":"United States Dollar",
-    "Language":"English; Palauan",
-    "Religion":"Christianity"
+    "name":"Saint Kitts and Nevis",
+    "country_code":1869,
+    "capital":"Basseterre",
+    "currency":"East Caribbean Dollar",
+    "language":"English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Panama",
-    "Capital":"Panama City",
-    "Currency":"Balboa",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Saint Lucia",
+    "country_code":1758,
+    "capital":"Castries",
+    "currency":"East Caribbean Dollar",
+    "language":"English; French",
+    "religion":"Christianity"
   },
   {
-    "Country":"Papa New Guinea",
-    "Capital":"Port Moresby",
-    "Currency":"Papa New Guinean Kina",
-    "Language":"English; Tok Pisin; Hiri Motu",
-    "Religion":"Christianity"
+    "name":"Saint Vincent \u0026 The Grenadines",
+    "country_code":1784,
+    "capital":"Kingstown",
+    "currency":"East Caribbean Dollar",
+    "language":"English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Paraguay",
-    "Capital":"Asuncion",
-    "Currency":"Guarani",
-    "Language":"Spanish; Guarani",
-    "Religion":"Christianity"
+    "name":"Samoa",
+    "country_code":685,
+    "capital":"Apia",
+    "currency":"Tala",
+    "language":"Samoan; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Peru",
-    "Capital":"Lima",
-    "Currency":"Nuevo Sol",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"San Marino",
+    "country_code":378,
+    "capital":"San Marino",
+    "currency":"Euro",
+    "language":"Italian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Philippines",
-    "Capital":"Manila",
-    "Currency":"Philippine Peso",
-    "Language":"Filipino; English",
-    "Religion":"Christianity, Islam"
+    "name":"Sao Tome and Principe",
+    "country_code":239,
+    "capital":"Sao Tome",
+    "currency":"Dobra",
+    "language":"Portuguese",
+    "religion":"Christianity"
   },
   {
-    "Country":"Poland",
-    "Capital":"Warsaw",
-    "Currency":"Złoty",
-    "Language":"Polish",
-    "Religion":"Christianity"
+    "name":"Saudi Arabia",
+    "country_code":966,
+    "capital":"Riyadh",
+    "currency":"Saudi Riyal",
+    "language":"Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"Portugal",
-    "Capital":"Lisbon",
-    "Currency":"Euro",
-    "Language":"Portuguese",
-    "Religion":"Christianity"
+    "name":"Senegal",
+    "country_code":221,
+    "capital":"Dakar",
+    "currency":"West African CFA Franc",
+    "language":"French",
+    "religion":"Islam"
   },
   {
-    "Country":"Qatar",
-    "Capital":"Doha",
-    "Currency":"Qatari Riyal",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Serbia",
+    "country_code":381,
+    "capital":"Belgrade",
+    "currency":"Serbian Dinar",
+    "language":"Serbian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Romania",
-    "Capital":"Bucharest",
-    "Currency":"Romanian Rupee",
-    "Language":"Romanian",
-    "Religion":"Christianity"
+    "name":"Seychelles",
+    "country_code":248,
+    "capital":"Victoria",
+    "currency":"Seychoellois Rupee",
+    "language":"Seychellois Creole; French; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Russia",
-    "Capital":"Moscow",
-    "Currency":"Ruble",
-    "Language":"Russian",
-    "Religion":"Christianity"
+    "name":"Sierra Leone",
+    "country_code":232,
+    "capital":"Freetown",
+    "currency":"Leone",
+    "language":"Krio; English",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Rwanda",
-    "Capital":"Kigali",
-    "Currency":"Rwandan Franc",
-    "Language":"Kinyarwanda; French; English",
-    "Religion":"Christianity"
+    "name":"Singapore",
+    "country_code":65,
+    "capital":"Singapore",
+    "currency":"Singapore Dollar",
+    "language":"English; Malay; Mandarin Chinese",
+    "religion":"Buddhist, Christianity"
   },
   {
-    "Country":"Saint Kitts and Nevis",
-    "Capital":"Basseterre",
-    "Currency":"East Caribbean Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Slovakia",
+    "country_code":421,
+    "capital":"Bratislava",
+    "currency":"Euro",
+    "language":"Slovak",
+    "religion":"Christianity"
   },
   {
-    "Country":"Saint Lucia",
-    "Capital":"Castries",
-    "Currency":"East Caribbean Dollar",
-    "Language":"English; French",
-    "Religion":"Christianity"
+    "name":"Slovenia",
+    "country_code":386,
+    "capital":"Ljubljana",
+    "currency":"Euro",
+    "language":"Slovene",
+    "religion":"Christianity"
   },
   {
-    "Country":"Saint Vincent \u0026 The Grenadines",
-    "Capital":"Kingstown",
-    "Currency":"East Caribbean Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Solomon Islands",
+    "country_code":677,
+    "capital":"Honiara",
+    "currency":"Solomon Islands Dollar",
+    "language":"Solomons Pijin",
+    "religion":"Christianity"
   },
   {
-    "Country":"Samoa",
-    "Capital":"Apia",
-    "Currency":"Tala",
-    "Language":"Samoan; English",
-    "Religion":"Christianity"
+    "name":"Somalia",
+    "country_code":252,
+    "capital":"Mogadishu",
+    "currency":"Somali Shilling",
+    "language":"Somali; Arabic",
+    "religion":"Islam"
   },
   {
-    "Country":"San Marino",
-    "Capital":"San Marino",
-    "Currency":"Euro",
-    "Language":"Italian",
-    "Religion":"Christianity"
+    "name":"South Africa",
+    "country_code":27,
+    "capital":"Pretoria; Cape Town; Bloemfontein",
+    "currency":"Rand",
+    "language":"Zulu; Xhosa; Afrikaans",
+    "religion":"Christianity"
   },
   {
-    "Country":"Sao Tome and Principe",
-    "Capital":"Sao Tome",
-    "Currency":"Dobra",
-    "Language":"Portuguese",
-    "Religion":"Christianity"
+    "name":"Spain",
+    "country_code":34,
+    "capital":"Madrid",
+    "currency":"Euro",
+    "language":"Spanish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Saudi Arabia",
-    "Capital":"Riyadh",
-    "Currency":"Saudi Riyal",
-    "Language":"Arabic",
-    "Religion":"Islam"
+    "name":"Sri Lanka",
+    "country_code":94,
+    "capital":"Colombo",
+    "currency":"Sri Lankan Rupee",
+    "language":"Sinhala; Tamil",
+    "religion":"Buddhist, Hindu, Islam"
   },
   {
-    "Country":"Senegal",
-    "Capital":"Dakar",
-    "Currency":"West African CFA Franc",
-    "Language":"French",
-    "Religion":"Islam"
+    "name":"Sudan",
+    "country_code":249,
+    "capital":"Khartoum",
+    "currency":"Sudanese Pound",
+    "language":"Arabic; English",
+    "religion":"Islam"
   },
   {
-    "Country":"Serbia",
-    "Capital":"Belgrade",
-    "Currency":"Serbian Dinar",
-    "Language":"Serbian",
-    "Religion":"Christianity"
+    "name":"Suriname",
+    "country_code":597,
+    "capital":"Paramaribo",
+    "currency":"Surinamese Dollar",
+    "language":"Dutch",
+    "religion":"Christianity"
   },
   {
-    "Country":"Seychelles",
-    "Capital":"Victoria",
-    "Currency":"Seychoellois Rupee",
-    "Language":"Seychellois Creole; French; English",
-    "Religion":"Christianity"
+    "name":"Swaziland",
+    "country_code":268,
+    "capital":"Mbabane",
+    "currency":"Lilangeni",
+    "language":"English; SiSwati",
+    "religion":"Christianity"
   },
   {
-    "Country":"Sierra Leone",
-    "Capital":"Freetown",
-    "Currency":"Leone",
-    "Language":"Krio; English",
-    "Religion":"Islam, Christianity"
+    "name":"Sweden",
+    "country_code":46,
+    "capital":"Stockholm",
+    "currency":"Swedish Krona",
+    "language":"Swedish",
+    "religion":"Christianity"
   },
   {
-    "Country":"Singapore",
-    "Capital":"Singapore",
-    "Currency":"Singapore Dollar",
-    "Language":"English; Malay; Mandarin Chinese",
-    "Religion":"Buddhist, Christianity"
+    "name":"Switzerland",
+    "country_code":41,
+    "capital":"Berne",
+    "currency":"Swiss Franc",
+    "language":"German; French; Italian",
+    "religion":"Christianity"
   },
   {
-    "Country":"Slovakia",
-    "Capital":"Bratislava",
-    "Currency":"Euro",
-    "Language":"Slovak",
-    "Religion":"Christianity"
+    "name":"Syria",
+    "country_code":963,
+    "capital":"Damascus",
+    "currency":"Syrian Pound",
+    "language":"Arabic",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"Slovenia",
-    "Capital":"Ljubljana",
-    "Currency":"Euro",
-    "Language":"Slovene",
-    "Religion":"Christianity"
+    "name":"Taiwan",
+    "country_code":886,
+    "capital":"Taipei",
+    "currency":"New Taiwan Dollar",
+    "language":"Mandarin",
+    "religion":"Polytheistic ancient Chinese religion, Buddhism"
   },
   {
-    "Country":"Solomon Islands",
-    "Capital":"Honiara",
-    "Currency":"Solomon Islands Dollar",
-    "Language":"Solomons Pijin",
-    "Religion":"Christianity"
+    "name":"Tajikistan",
+    "country_code":992,
+    "capital":"Dushanbe",
+    "currency":"Somoni",
+    "language":"Tajik; Russian",
+    "religion":"Islam"
   },
   {
-    "Country":"Somalia",
-    "Capital":"Mogadishu",
-    "Currency":"Somali Shilling",
-    "Language":"Somali; Arabic",
-    "Religion":"Islam"
+    "name":"Tanzania",
+    "country_code":255,
+    "capital":"Dar es Salaam; Dodoma",
+    "currency":"Tanzanian Schilling",
+    "language":"Swahili",
+    "religion":"Islam, Christianity"
   },
   {
-    "Country":"South Africa",
-    "Capital":"Pretoria; Cape Town; Bloemfontein",
-    "Currency":"Rand",
-    "Language":"Zulu; Xhosa; Afrikaans",
-    "Religion":"Christianity"
+    "name":"Thailand",
+    "country_code":66,
+    "capital":"Bangkok",
+    "currency":"Thai Baht",
+    "language":"Thai",
+    "religion":"Buddhism"
   },
   {
-    "Country":"Spain",
-    "Capital":"Madrid",
-    "Currency":"Euro",
-    "Language":"Spanish",
-    "Religion":"Christianity"
+    "name":"Togo",
+    "country_code":228,
+    "capital":"Lome",
+    "currency":"West African CFA Franc",
+    "language":"French",
+    "religion":"Traditional/Native religion, Christianity"
   },
   {
-    "Country":"Sri Lanka",
-    "Capital":"Colombo",
-    "Currency":"Sri Lankan Rupee",
-    "Language":"Sinhala; Tamil",
-    "Religion":"Buddhist, Hindu, Islam"
+    "name":"Tonga",
+    "country_code":676,
+    "capital":"Nuku\u0027alofa",
+    "currency":"Pa\u0027anga",
+    "language":"Tongan; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Sudan",
-    "Capital":"Khartoum",
-    "Currency":"Sudanese Pound",
-    "Language":"Arabic; English",
-    "Religion":"Islam"
+    "name":"Trinidad and Tobago",
+    "country_code":1868,
+    "capital":"Port-of-Spain",
+    "currency":"Trinidad and Tobago Dollar",
+    "language":"English",
+    "religion":"Christianity, Hindu, Islam"
   },
   {
-    "Country":"Suriname",
-    "Capital":"Paramaribo",
-    "Currency":"Surinamese Dollar",
-    "Language":"Dutch",
-    "Religion":"Christianity"
+    "name":"Tunisia",
+    "country_code":216,
+    "capital":"Tunis",
+    "currency":"Tunisian Dinar",
+    "language":"Tunisian; French",
+    "religion":"Islam"
   },
   {
-    "Country":"Swaziland",
-    "Capital":"Mbabane",
-    "Currency":"Lilangeni",
-    "Language":"English; SiSwati",
-    "Religion":"Christianity"
+    "name":"Turkey",
+    "country_code":90,
+    "capital":"Ankara",
+    "currency":"Turkish Lira",
+    "language":"Turkish",
+    "religion":"Islam (But Secular country)"
   },
   {
-    "Country":"Sweden",
-    "Capital":"Stockholm",
-    "Currency":"Swedish Krona",
-    "Language":"Swedish",
-    "Religion":"Christianity"
+    "name":"Turkmenistan",
+    "country_code":993,
+    "capital":"Ashgabat",
+    "currency":"Turkmen New Manat",
+    "language":"Turkmen; Russian",
+    "religion":"Islam"
   },
   {
-    "Country":"Switzerland",
-    "Capital":"Berne",
-    "Currency":"Swiss Franc",
-    "Language":"German; French; Italian",
-    "Religion":"Christianity"
+    "name":"Tuvalu",
+    "country_code":688,
+    "capital":"Vaiaku",
+    "currency":"Tuvaluan Dollar",
+    "language":"Tuvaluan; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Syria",
-    "Capital":"Damascus",
-    "Currency":"Syrian Pound",
-    "Language":"Arabic",
-    "Religion":"Islam, Christianity"
+    "name":"Uganda",
+    "country_code":256,
+    "capital":"Kampala",
+    "currency":"Ugandan Shilling",
+    "language":"Swahili; English",
+    "religion":"Christianity"
   },
   {
-    "Country":"Taiwan",
-    "Capital":"Taipei",
-    "Currency":"New Taiwan Dollar",
-    "Language":"Mandarin",
-    "Religion":"Polytheistic ancient Chinese religion, Buddhism"
-  },
-  {
-    "Country":"Tajikistan",
-    "Capital":"Dushanbe",
-    "Currency":"Somoni",
-    "Language":"Tajik; Russian",
-    "Religion":"Islam"
-  },
-  {
-    "Country":"Tanzania",
-    "Capital":"Dar es Salaam; Dodoma",
-    "Currency":"Tanzanian Schilling",
-    "Language":"Swahili",
-    "Religion":"Islam, Christianity"
-  },
-  {
-    "Country":"Thailand",
-    "Capital":"Bangkok",
-    "Currency":"Thai Baht",
-    "Language":"Thai",
-    "Religion":"Buddhism"
-  },
-  {
-    "Country":"Togo",
-    "Capital":"Lome",
-    "Currency":"West African CFA Franc",
-    "Language":"French",
-    "Religion":"Traditional/Native religion, Christianity"
-  },
-  {
-    "Country":"Tonga",
-    "Capital":"Nuku\u0027alofa",
-    "Currency":"Pa\u0027anga",
-    "Language":"Tongan; English",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Trinidad and Tobago",
-    "Capital":"Port-of-Spain",
-    "Currency":"Trinidad and Tobago Dollar",
-    "Language":"English",
-    "Religion":"Christianity, Hindu, Islam"
-  },
-  {
-    "Country":"Tunisia",
-    "Capital":"Tunis",
-    "Currency":"Tunisian Dinar",
-    "Language":"Tunisian; French",
-    "Religion":"Islam"
-  },
-  {
-    "Country":"Turkey",
-    "Capital":"Ankara",
-    "Currency":"Turkish Lira",
-    "Language":"Turkish",
-    "Religion":"Islam (But Secular country)"
-  },
-  {
-    "Country":"Turkmenistan",
-    "Capital":"Ashgabat",
-    "Currency":"Turkmen New Manat",
-    "Language":"Turkmen; Russian",
-    "Religion":"Islam"
-  },
-  {
-    "Country":"Tuvalu",
-    "Capital":"Vaiaku",
-    "Currency":"Tuvaluan Dollar",
-    "Language":"Tuvaluan; English",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Uganda",
-    "Capital":"Kampala",
-    "Currency":"Ugandan Shilling",
-    "Language":"Swahili; English",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Ukraine",
-    "Capital":"Kiev",
-    "Currency":"Hryvnia",
-    "Language":"Ukrainian; Russian",
-    "Religion":"Eastern Orthodoxy"
-  },
-  {
-    "Country":"United Arab Emirates",
-    "Capital":"Abu Dhabi",
-    "Currency":"Dirham",
-    "Language":"Arabic",
-    "Religion":"Islam"
-  },
-  {
-    "Country":"United Kingdom",
-    "Capital":"London",
-    "Currency":"Pound Sterling",
-    "Language":"English",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"United States of America",
-    "Capital":"Washington D.C.",
-    "Currency":"United States Dollar",
-    "Language":"English; Spanish",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Uruguay",
-    "Capital":"Montevideo",
-    "Currency":"Uruguayan Peso",
-    "Language":"Spanish",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Uzbekistan",
-    "Capital":"Tashkent",
-    "Currency":"Uzbekistan Som",
-    "Language":"Uzbek; Russian",
-    "Religion":"Islam"
-  },
-  {
-    "Country":"Vanuatu",
-    "Capital":"Port-Vila",
-    "Currency":"Vanuatu Vatu",
-    "Language":"Bislama; English; French",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Vatican City",
-    "Capital":"Vatican City",
-    "Currency":"Euro",
-    "Language":"Latin; Italian",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Venezuela",
-    "Capital":"Caracas",
-    "Currency":"Bolivar Fuerte",
-    "Language":"Spanish",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Vietnam",
-    "Capital":"Hanoi",
-    "Currency":"Dong",
-    "Language":"Vietnamese",
-    "Religion":"Native religious practice, Christianity"
-  },
-  {
-    "Country":"Yemen",
-    "Capital":"Sanaa",
-    "Currency":"Yemeni Rial",
-    "Language":"Arabic",
-    "Religion":"Islam"
-  },
-  {
-    "Country":"Zambia",
-    "Capital":"Lusaka",
-    "Currency":"Zambian Kwacha",
-    "Language":"English",
-    "Religion":"Christianity"
-  },
-  {
-    "Country":"Zimbabwe",
-    "Capital":"Harare",
-    "Currency":"United States Dollar",
-    "Language":"English",
-    "Religion":"Christianity"
+    "name":"Ukraine",
+    "country_code":380,
+    "capital":"Kiev",
+    "currency":"Hryvnia",
+    "language":"Ukrainian; Russian",
+    "religion":"Eastern Orthodoxy"
+  },
+  {
+    "name":"United Arab Emirates",
+    "country_code":971,
+    "capital":"Abu Dhabi",
+    "currency":"Dirham",
+    "language":"Arabic",
+    "religion":"Islam"
+  },
+  {
+    "name":"United Kingdom",
+    "country_code":44,
+    "capital":"London",
+    "currency":"Pound Sterling",
+    "language":"English",
+    "religion":"Christianity"
+  },
+  {
+    "name":"United States of America",
+    "country_code":1,
+    "capital":"Washington D.C.",
+    "currency":"United States Dollar",
+    "language":"English; Spanish",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Uruguay",
+    "country_code":598,
+    "capital":"Montevideo",
+    "currency":"Uruguayan Peso",
+    "language":"Spanish",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Uzbekistan",
+    "country_code":998,
+    "capital":"Tashkent",
+    "currency":"Uzbekistan Som",
+    "language":"Uzbek; Russian",
+    "religion":"Islam"
+  },
+  {
+    "name":"Vanuatu",
+    "country_code":678,
+    "capital":"Port-Vila",
+    "currency":"Vanuatu Vatu",
+    "language":"Bislama; English; French",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Vatican City",
+    "country_code":379,
+    "capital":"Vatican City",
+    "currency":"Euro",
+    "language":"Latin; Italian",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Venezuela",
+    "country_code":58,
+    "capital":"Caracas",
+    "currency":"Bolivar Fuerte",
+    "language":"Spanish",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Vietnam",
+    "country_code":84,
+    "capital":"Hanoi",
+    "currency":"Dong",
+    "language":"Vietnamese",
+    "religion":"Native religious practice, Christianity"
+  },
+  {
+    "name":"Yemen",
+    "country_code":967,
+    "capital":"Sanaa",
+    "currency":"Yemeni Rial",
+    "language":"Arabic",
+    "religion":"Islam"
+  },
+  {
+    "name":"Zambia",
+    "country_code":260,
+    "capital":"Lusaka",
+    "currency":"Zambian Kwacha",
+    "language":"English",
+    "religion":"Christianity"
+  },
+  {
+    "name":"Zimbabwe",
+    "country_code":263,
+    "capital":"Harare",
+    "currency":"United States Dollar",
+    "language":"English",
+    "religion":"Christianity"
   }
 ]
